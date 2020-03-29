@@ -20,4 +20,10 @@ class PageController extends Controller
     {
     	return view('contact');
     }
+
+
+    public function how_it_works()
+    {
+    	return view('how_it_works');
+    }
 }

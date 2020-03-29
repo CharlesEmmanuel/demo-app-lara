@@ -26,3 +26,5 @@ Route::get('/about', 'PageController@about')->name('about');
 Route::get('/help', 'PageController@help')->name('help');
 
 Route::get('/contact', 'PageController@contact')->name('contact');
+
+Route::get('/how-it-work', 'PageController@how_it_works')->name('how_it_works');
