@@ -9,6 +9,7 @@
 
                 <div class="card-body">
                     <h1>Contact Page</h1>
+                    <p>Mon Adresse email : charlesemmanuel@pm.me</p>
                 </div>
             </div>
         </div>
