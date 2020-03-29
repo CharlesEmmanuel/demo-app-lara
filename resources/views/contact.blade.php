@@ -8,7 +8,7 @@
                 <div class="card-header">Dashboard</div>
 
                 <div class="card-body">
-                    Helpe Page
+                    <h1>Contact Page</h1>
                 </div>
             </div>
         </div>

@@ -24,3 +24,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/about', 'PageController@about')->name('about');
 
 Route::get('/help', 'PageController@help')->name('help');
+
+Route::get('/contact', 'PageController@contact')->name('contact');
